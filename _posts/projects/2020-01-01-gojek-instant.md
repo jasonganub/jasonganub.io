@@ -5,10 +5,10 @@ category: projects
 date: 2020-01-01
 
 meta:
-  keywords: "Gojek Instant"
+  keywords: "Instant Service"
 
 project:
-  title: "Gojek Instant"
+  title: "Instant Service"
   type: "Gojek"
   url: "https://www.gojek.com/blog/gocar/pesan-gocar-di-bandara-soekarno-hatta/"
   logo: "/assets/images/projects/redpineapple/logo.png"

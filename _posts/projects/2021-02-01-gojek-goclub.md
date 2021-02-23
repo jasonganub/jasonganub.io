@@ -2,22 +2,22 @@
 layout: project
 permalink: /:title/
 category: projects
-date: 2019-06-01
+date: 2021-02-01
 
 meta:
-  keywords: "Jago Coffee, Jakarta Coffee"
+  keywords: "GoClub, Loyalty Program, Membership"
 
 project:
-  title: "Jago Coffee"
-  type: "Freelancer"
-  url: "https://www.jagocoffee.com/"
+  title: "GoClub"
+  type: "Gojek"
+  url: "https://www.gojek.com/blog/gojek/goclub/"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "Golang, Firebase, Ansible, Digital Ocean"
+  tech: "Ruby on Rails, Golang, Sidekiq, Postgres"
 
 dev:
   title: "Jason Ganub"
   url: "https://github.com/arnolds/pineapple"
-  year: "2020"
+  year: "2021"
 
 images:
   - image:
@@ -30,4 +30,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>First onboarded engineer to build the backend infra, order management system, and payment gateway integration. Jago is the first-ever mobile cafe and barista at your doorstep..</p>
+<p>GoClub is Gojek's loyalty program which is served across numerous services. I lead the development, automation, and launch for Transport for both the surge protection and priority allocation benefits.</p>
