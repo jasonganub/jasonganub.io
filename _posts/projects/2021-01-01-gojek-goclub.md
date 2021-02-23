@@ -2,21 +2,22 @@
 layout: project
 permalink: /:title/
 category: projects
+date: 2021-01-01
 
 meta:
-  keywords: "Go-S2"
+  keywords: "GoClub, Loyalty Program, Membership"
 
 project:
-  title: "Go-S2"
-  type: "Jekyll"
-  url: "https://github.com/jasonganub/go-s2"
+  title: "GoClub"
+  type: "Gojek"
+  url: "https://www.gojek.com/blog/gojek/goclub/"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "Golang, S2, Geojson, Polygon"
+  tech: "Ruby on Rails, Golang, Sidekiq, Postgres"
 
 dev:
   title: "Jason Ganub"
   url: "https://github.com/arnolds/pineapple"
-  year: "2020"
+  year: "2021"
 
 images:
   - image:
@@ -29,4 +30,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>A library written in Golang. Go-S2 can convert geojson polygon files and convert them to S2 cell IDs for a given S2 level.</p>
+<p>GoClub is Gojek's loyalty program which is across numerous services. I lead the development, automation, and launch for Transport for both the surge protection and priority allocation benefits.</p>
