@@ -1,0 +1,16 @@
+# User config
+author: "Jason Ganub"
+tagline: ""
+description: "I code so I can travel"
+keywords: "Jason Ganub, Jason, Loden, Ganub, Tibetan American, Tibetan-American"
+email: "hi@jasonganub.com"
+linkedin: "https://www.linkedin.com/in/jasonganub/"
+twitter: "https://twitter.com/jasonganub"
+github: "https://github.com/jasonganub"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
