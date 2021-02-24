@@ -2,22 +2,22 @@
 layout: project
 permalink: /:title/
 category: projects
-date: 2020-01-01
+date: 2019-02-19
 
 meta:
-  keywords: "Instant Service"
+  keywords: "Driver Karma"
 
 project:
-  title: "Instant Service"
+  title: "Driver Karma"
   type: "Gojek"
-  url: "https://www.gojek.com/blog/gocar/pesan-gocar-di-bandara-soekarno-hatta/"
+  url: ""
   logo: "/assets/images/projects/gojek-instant/logo.jpg"
-  tech: "Clojure, Ziggurat, Kafka, Firehose, Redis Geo, Firebase"
+  tech: "Clojure, Ziggurat, Kafka, Postgres"
 
 dev:
   title: "Jason Ganub"
   url: "https://github.com/jasonganub"
-  year: "2020"
+  year: "2019"
 
 images:
   - image:

@@ -16,7 +16,7 @@ project:
 
 dev:
   title: "Jason Ganub"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/jasonganub"
   year: "2021"
 
 images:

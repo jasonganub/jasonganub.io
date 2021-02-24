@@ -2,17 +2,17 @@
 layout: project
 permalink: /:title/
 category: projects
-date: 2020-01-01
+date: 2020-04-21
 
 meta:
-  keywords: "Instant Service"
+  keywords: "Feedback Service"
 
 project:
-  title: "Instant Service"
+  title: "Feedback Service"
   type: "Gojek"
-  url: "https://www.gojek.com/blog/gocar/pesan-gocar-di-bandara-soekarno-hatta/"
-  logo: "/assets/images/projects/gojek-instant/logo.jpg"
-  tech: "Clojure, Ziggurat, Kafka, Firehose, Redis Geo, Firebase"
+  url: ""
+  logo: "/assets/images/projects/gojek-candor/logo.jpg"
+  tech: "Golang, Kafka, Config Store"
 
 dev:
   title: "Jason Ganub"
