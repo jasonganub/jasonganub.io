@@ -11,7 +11,7 @@ project:
   title: "Driver Karma"
   type: "Gojek"
   url: ""
-  logo: "/assets/images/projects/gojek-instant/logo.jpg"
+  logo: "/assets/images/projects/gojek/logo.jpg"
   tech: "Clojure, Ziggurat, Kafka, Postgres"
 
 dev:

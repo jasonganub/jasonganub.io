@@ -11,7 +11,7 @@ project:
   title: "Feedback Service"
   type: "Gojek"
   url: ""
-  logo: "/assets/images/projects/gojek-candor/logo.jpg"
+  logo: "/assets/images/projects/gojek/logo.jpg"
   tech: "Golang, Kafka, Config Store"
 
 dev:
