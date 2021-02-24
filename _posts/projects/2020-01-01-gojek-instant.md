@@ -11,7 +11,7 @@ project:
   title: "Instant Service"
   type: "Gojek"
   url: "https://www.gojek.com/blog/gocar/pesan-gocar-di-bandara-soekarno-hatta/"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/gojek-instant/logo.jpg"
   tech: "Clojure, Ziggurat, Kafka, Redis Geo"
 
 dev:
