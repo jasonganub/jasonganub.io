@@ -25,7 +25,7 @@ h2,
 .h2 {	
 	color: $color-silver-chalice;
 	display: block;
-	font-family: $font-lekton;
+	font-family: sans-serif;
     font-size: 1.5rem;
     font-weight: 400;
     letter-spacing: .2rem;
@@ -37,7 +37,7 @@ h2,
 h3,
 .h3 {
 	color: $color-black;
-	font-family: $font-poppins;
+	font-family: sans-serif;
     font-size: 1.8rem;
     font-weight: 600;
     line-height: 1;
@@ -86,7 +86,7 @@ code {
 	background: $color-white;
 	border: 1px solid $color-silver-chalice;
 	border-radius: 3px;
-	font-family: $font-lekton;
+	font-family: sans-serif;
 	font-size: 1.5rem;	
 	padding: .1rem .4rem;
 
@@ -100,7 +100,7 @@ dl {
 
 	dt,
 	dd {
-		font-family: $font-lekton;		
+		font-family: sans-serif;		
 	}
 
 	dt {
@@ -145,7 +145,7 @@ table {
 
 	th,
 	td {
-		font-family: $font-lekton;
+		font-family: sans-serif;
 		font-weight: 400;
 		text-align: left;
 		padding: .5rem 1rem;
