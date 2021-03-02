@@ -14,3 +14,6 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+# Google services
+google_analytics: 263915034
