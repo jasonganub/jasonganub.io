@@ -11,7 +11,7 @@ project:
   title: "Candor"
   type: "Gojek"
   url: ""
-  logo: "/assets/images/projects/gojek/logo.jpg"
+  logo: "/assets/images/projects/gojek-candor/logo.jpg"
   tech: "Golang, Kafka, Config Store"
   description: "Candor is a feedback service we use to display feedback cards on the OTW screen. It allows customers to provide feedback for pickup location accuracy and any feedback for their trip. We built the forms in-house with various categories such as multiple choice, yes/no, and free form."
 
