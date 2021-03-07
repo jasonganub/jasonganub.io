@@ -23,12 +23,12 @@ dev:
 images:
   - image:
     url: "/assets/images/projects/gojek-goclub/screenshot-1.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: ""
   - image:
     url: "/assets/images/projects/gojek-goclub/screenshot-2.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    alt: ""
   - image:
     url: "/assets/images/projects/gojek-goclub/screenshot-3.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    alt: ""
 ---
 <p>I lead the development, automation, and launch for Transport for both the surge protection and priority allocation benefits.</p>

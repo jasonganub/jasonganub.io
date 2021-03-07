@@ -5,14 +5,15 @@ category: projects
 date: 2020-04-21
 
 meta:
-  keywords: "Feedback Service"
+  keywords: "Candor Feedback Service"
 
 project:
-  title: "Feedback Service"
+  title: "Candor"
   type: "Gojek"
   url: ""
   logo: "/assets/images/projects/gojek/logo.jpg"
   tech: "Golang, Kafka, Config Store"
+  description: "Candor is a feedback service we use to display feedback cards on the OTW screen. It allows customers to provide feedback for pickup location accuracy and any feedback for their trip. We built the forms in-house with various categories such as multiple choice, yes/no, and free form."
 
 dev:
   title: "Jason Ganub"
@@ -21,10 +22,10 @@ dev:
 
 images:
   - image:
-    url: "/assets/images/projects/gojek-instant/screenshot-1.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/gojek-candor/screenshot-1.jpg"
+    alt: ""
   - image:
-    url: "/assets/images/projects/gojek-instant/screenshot-2.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/gojek-candor/screenshot-2.jpg"
+    alt: ""
 ---
-<p>Developed the Instant service for the Transport team. Instant is Gojek's alternative allocation flow where customers and drivers connect via an in-person queue system using an OTP code. I lead the development of features, engineering improvements, and scaling new locations with above 90% code coverage. We also leveraged Redis's geo functionality to automatically react with notifications when driver supply is low.</p>
+<p>I created Candor with my colleague and platformized it for other teams within Gojek as a feedback service. We also integrated it with Salesforce so that critical feedback would raise a ticket between our customer care unit and the customer to resolve.</p>

@@ -23,9 +23,9 @@ dev:
 images:
   - image:
     url: "/assets/images/projects/gojek-instant/screenshot-1.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: ""
   - image:
     url: "/assets/images/projects/gojek-instant/screenshot-2.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    alt: ""
 ---
 <p>I developed the Instant service for the Transport team. I lead the development of features, engineering improvements, and scaling new locations with above 90% code coverage. I leveraged Redis's geo functionality so we can consume driver locations and send a notification to nearby drivers if supply is low at an Instant location.</p>
