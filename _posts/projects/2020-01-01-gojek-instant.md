@@ -8,7 +8,7 @@ meta:
   keywords: "Instant Service"
 
 project:
-  title: "Instant Service"
+  title: "Instant"
   type: "Gojek"
   url: "https://www.gojek.com/blog/gocar/pesan-gocar-di-bandara-soekarno-hatta/"
   logo: "/assets/images/projects/gojek-instant/logo.jpg"
