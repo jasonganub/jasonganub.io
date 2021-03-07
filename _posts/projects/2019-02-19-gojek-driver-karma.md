@@ -11,9 +11,9 @@ project:
   title: "Driver Karma"
   type: "Gojek"
   url: ""
-  logo: "/assets/images/projects/gojek/logo.jpg"
+  logo: "/assets/images/projects/gojek-driver-karma/logo.jpg"
   tech: "Clojure, Ziggurat, Kafka, Postgres"
-  description: ""
+  description: "Driver karma is a service to provide information to customers about the number of trips a driver has completed, the status of their temperature check, and if vehicles have the safety shield."
 
 dev:
   title: "Jason Ganub"
@@ -28,4 +28,4 @@ images:
     url: "/assets/images/projects/gojek-driver-karma/screenshot-2.jpg"
     alt: ""
 ---
-<p>Developed the Instant service for the Transport team. Instant is Gojek's alternative allocation flow where customers and drivers connect via an in-person queue system using an OTP code. I lead the development of features, engineering improvements, and scaling new locations with above 90% code coverage. We also leveraged Redis's geo functionality to automatically react with notifications when driver supply is low.</p>
+<p>Driver Karma was the first project I owned on my own with a lot of learnings on performance related to partitioning, indexing, caching, translations, etc. It was written in Clojure which was a pleasure to write both the implementation and unit tests in. REPL was a powerful tool that helped debug quickly using Cursive locally and on integration servers. Funny story is that I worked on majority of the project while I was in the U.S. during the day and syncing with product in the evening.</p>
