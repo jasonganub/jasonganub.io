@@ -13,6 +13,7 @@ project:
   url: ""
   logo: "/assets/images/projects/gojek/logo.jpg"
   tech: "Clojure, Ziggurat, Kafka, Postgres"
+  description: ""
 
 dev:
   title: "Jason Ganub"

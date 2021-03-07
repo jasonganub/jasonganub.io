@@ -13,6 +13,7 @@ project:
   url: "https://www.gojek.com/goclub/"
   logo: "/assets/images/projects/gojek-goclub/logo.jpg"
   tech: "Ruby on Rails, Golang, Sidekiq, Postgres"
+  description: "GoClub is Gojek's loyalty program which is served across numerous services."
 
 dev:
   title: "Jason Ganub"
@@ -30,4 +31,4 @@ images:
     url: "/assets/images/projects/gojek-goclub/screenshot-3.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>GoClub is Gojek's loyalty program which is served across numerous services. I lead the development, automation, and launch for Transport for both the surge protection and priority allocation benefits.</p>
+<p>I lead the development, automation, and launch for Transport for both the surge protection and priority allocation benefits.</p>
