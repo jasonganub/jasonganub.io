@@ -14,6 +14,7 @@ project:
   logo: "/assets/images/projects/gojek-driver-karma/logo.jpg"
   tech: "Clojure, Ziggurat, Kafka, Postgres"
   description: "Driver karma is a service to provide information to customers about the number of trips a driver has completed, the status of their temperature check, and if vehicles have the safety shield."
+  impact: ""
 
 dev:
   title: "Jason Ganub"
