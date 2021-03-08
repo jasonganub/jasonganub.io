@@ -14,7 +14,7 @@ project:
   logo: "/assets/images/projects/gojek-goclub/logo.jpg"
   tech: "Ruby on Rails, Golang, Sidekiq, Postgres"
   description: "GoClub is Gojek's loyalty program which is served across numerous services."
-  impact: "GoClub users complete more orders than non-GoClub users which is a big achievement."
+  impact: "GoClub users are more active which is a great behavior change."
 
 dev:
   title: "Jason Ganub"
