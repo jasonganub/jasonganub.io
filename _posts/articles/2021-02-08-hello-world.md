@@ -5,13 +5,13 @@ category: articles
 date: 2021-04-08
 
 meta:
-  keywords: "Grit"
+  keywords: "Sharing Sessions"
 
 article:
-  title: "Grit"
+  title: "Internal Sharing Sessions"
   type: "Gojek"
   url: "https://medium.com/@jasonganub/internal-technical-sharing-sessions-620851bad30f"
-  logo: "https://miro.medium.com/max/700/1*gRSCPCdFxWokKk2Qgq4oQw.jpeg"
+  logo: "https://miro.medium.com/max/700/1*4222erIq-FAcIxNiNAjkBA.jpeg"
   tech: "Clojure, Ziggurat, Kafka, Postgres"
   description: "Driver karma is a service to provide information to customers about the number of trips a driver has completed, the status of their temperature check, and if vehicles have the safety shield."
   impact: ""
