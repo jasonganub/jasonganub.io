@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/scheduled-ride/screenshot-2.jpg"
     alt: ""
 ---
-<p>I lead the development of the estimation, gopay reservation, and goclub integration flow for scheduled ride. This touched numerous services and required a lot of coordination to get it ready for production ready. There were many edge cases to cover due to GoClub benefits needing to be maintained for the customer.</p>
+<p>I lead the development of the estimation, gopay reservation, and goclub integration flow for scheduled ride. This touched numerous services and required a lot of coordination to get it ready for production. There were many edge cases to cover due to GoClub benefits needing to be maintained for the customer.</p>
