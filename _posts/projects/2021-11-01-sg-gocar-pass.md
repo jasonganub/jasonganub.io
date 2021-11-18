@@ -23,10 +23,10 @@ dev:
 
 images:
   - image:
-    url: "/assets/images/projects/scheduled-ride/screenshot-1.jpg"
+    url: "/assets/images/projects/sg-gocar-pass/screenshot-1.jpg"
     alt: ""
   - image:
-    url: "/assets/images/projects/scheduled-ride/screenshot-2.jpg"
+    url: "/assets/images/projects/sg-gocar-pass/screenshot-2.jpg"
     alt: ""
 ---
 <p>I lead the development of the SG GoCar Pass to allow customers to buy bundles of vouchers. It was a complex project as it entailed having to request the team we integrate with for the bundles to rewrite a new contract to fit our needs. Then I coordinated the timelines with frontend folks with milestones so we can continually deliver.
