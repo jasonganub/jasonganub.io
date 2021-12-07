@@ -1,3 +1,8 @@
+.avatar {
+	border-radius: 50%;
+	margin-right: 20px;
+}
+
 .container {
 	display: block;
 	margin: 0 auto;
@@ -65,7 +70,6 @@
 	.container {
 		img {
 			float: left;
-			padding-right: 25px;
 			width: 150px;
 			height: 150px;
 		}
